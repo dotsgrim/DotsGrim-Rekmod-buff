@@ -1,0 +1,34 @@
+[
+  {
+        "name": "Georgia",
+        "leaderName": "Tamar",
+        "adjective": ["Georgian"],
+        "startBias": ["Avoid [Coast]"],
+        "startIntroPart1": "The MOUNTAINS echo with the strength of our ancestors.",
+        "startIntroPart2": "Georgia rises, proud and unbroken.",
+        "declaringWar": "Your actions dishonor the legacy of peace. Now, feel the might of Georgia!",
+        "attacked": "Your treachery knows no bounds! Georgia will endure, and you will fall!",
+        "defeated": "The proud heart of Georgia is silent... but her spirit will rise again.",
+        "introduction": "Gamarjoba. In the name of the ancient land of Kartli, welcome.",
+        "neutralHello": "The mountains stand still. What do you seek?",
+        "hateHello": "Enough talk! What is it this time?",
+        "tradeRequest": "This trade honors us both. Shall we proceed?",
+        "outerColor": [149,129,189],
+        "innerColor": [254,254,51],
+        "uniqueName": "Ecclesiastical Architecture",
+        "uniques": [
+            "Comment [Buildings unlocked by religious beliefs (except Houses of Worship) are built using [Production] instead (cost equal to 50% of the required [Faith])]",
+            "Comment [These buildings provide [+2 Production]]",
+            "[+1 Faith] from every [Mountain]",
+            "[+3 Faith, +2 Culture] from every [Mountain] <starting from the [Renaissance era]>"
+        ],
+        "cities": [
+            "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
+            "Khashuri","Senak'i","Zestap'oni","Telavi","Ozurgeti","Marneuli","Kobuleti","Tqvarch'eli","Akhaltsikhe","Tsqaltubo",
+            "Kaspi"
+        ],
+        "spyNames": [
+            "Giorgi","Mariam","Davit","Tamar","Levan","Nino","Zurab","Salome","Vazha","Ekaterine"
+        ]
+  }
+]
