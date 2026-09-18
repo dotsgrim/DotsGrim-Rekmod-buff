@@ -1,0 +1,32 @@
+[
+  {
+        "name": "Promised Neverland",
+        "type": "Pantheon",
+        "uniques": [
+            "[+5 Faith, +2 Happiness] [in capital] <before the [Medieval era]>",
+            "[+4 Production, +4 Food, +1 Happiness] from every [Tsikhe]",
+            "[-2 Production, -2 Faith, -3 Gold] from every [Walls]",
+            "[+2 Production, +3 Faith, +2 Food] from every [Natural Wonder]",
+            "All newly-trained [Settler] units [in this city] receive the [Extra Sight] promotion",
+            "All newly-trained [Settler] units [in this city] receive the [Mosasa] promotion",
+            "[+4 Production, +2 Faith] from every [4] global followers [in foreign cities]",
+            "[+3 Science] from every [4] global followers [in foreign cities] <before the [Modern era]>",
+            "[+1 Happiness] from every [6] global followers [in all cities] <starting from the [Renaissance era]>",
+            "May buy [Library] buildings for [60] [Faith] [in cities following this religion]",
+            "May buy [University] buildings for [220] [Faith] [in cities following this religion]",
+            "May buy [Observatory] buildings for [260] [Faith] [in cities following this religion]",
+            "May buy [Public School] buildings for [380] [Faith] [in cities following this religion]",
+            "May buy [Research Lab] buildings for [630] [Faith] [in cities following this religion]",
+            "May buy [Workshop] buildings for [200] [Faith] [in cities following this religion]",
+            "May buy [Factory] buildings for [450] [Faith] [in cities following this religion]",
+            "May buy [Windmill] buildings for [320] [Faith] [in cities following this religion]",
+            "May buy [Hydro Plant] buildings for [520] [Faith] [in cities following this religion]",
+            "Comment [Unlocks [Pagoda] [in cities following this religion]]",
+            "Comment [Unlocks [Mosque] [in cities following this religion]]",
+            "Comment [Unlocks [Mandir] [in cities following this religion]]",
+            "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
+            "Comment [Unlocks [Cathedral] [in cities following this religion]]",
+        ]        
+  }
+]
+
