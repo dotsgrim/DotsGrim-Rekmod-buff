@@ -23,15 +23,15 @@
             "[+200]% Strength <for [Scout] units> <starting from the [Renaissance era]> <before the [Industrial era]>",
             "[+500]% Strength <for [Scout] units> <starting from the [Industrial era]> <before the [Modern era]>",
             "[+1000]% Strength <for [Scout] units> <starting from the [Modern era]> <before the [Atomic era]>",
-            "[+2000]% Strength <for [Scout] units> <starting from the [Atomic era]> <before the [Information era]>",
+            "[+2000]% Strength <for [Scout] units> <starting from the [Atomic era]>",
             "[+1 Faith] from every [Mountain] <before the [Classical era]>",
             "[+2 Culture] from every [Mountain] <starting from the [Renaissance era]>",
             "[+1] Movement <for [Military] units> <during a Golden Age>",
             "[+12]% Strength <for [Military] units> <during a Golden Age>",
             "[+2] Sight <for [Scout] units> <starting from the [Renaissance era]>",
-            "[+1] Movement <for [Scout] units> <starting from the [Renaissance era]>",
-            "[Scout] units gain the [Can Move After Attacking] promotion <starting from [Renaissance era]>",
-            "[Scout] units gain the [Evasion] promotion <starting from [Atomic era]>"
+            "[+2] Movement <for [Scout] units> <starting from the [Renaissance era]>",
+            "[Scout] units gain the [Can Move After Attacking] promotion <starting from the [Renaissance era]>",
+            "[Scout] units gain the [Evasion] promotion <starting from the [Atomic era]>"
         ],
         "cities": [
             "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
