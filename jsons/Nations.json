@@ -33,7 +33,8 @@
             "[+1] Sight <for [Scout] units> <starting from the [Renaissance era]>",
             "[+2] Movement <for [Scout] units> <starting from the [Renaissance era]>",
             "[Scout] units gain the [Can Move After Attacking] promotion <starting from the [Renaissance era]>",
-            "[Scout] units gain the [Evasion] promotion <starting from the [Atomic era]>"
+            "[Scout] units gain the [Evasion] promotion <starting from the [Atomic era]>",
+            "[+50]% Golden Age length <starting from the [Renaissance era]>"
         ],
         "cities": [
             "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
