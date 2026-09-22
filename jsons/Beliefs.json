@@ -3,11 +3,11 @@
         "name": "Promised Neverland",
         "type": "Pantheon",
         "uniques": [
-            "[+3 Happiness, -2 Faith] [in capital] <before the [Medieval era]>",
+            "[+3 Happiness] [in capital] <before the [Medieval era]>",
             "[+10 Production, +8 Food, +5 Faith, +4 Gold] from every [Tsikhe]",
             "[-8 Production, -8 Food, -5 Faith, -4 Gold] from every [Walls]",
             "[+3 Faith] from every [Tsikhe] <starting from the [Industrial era]>",
-            "[-3 Faith] from every [Shine] <starting from the [Industrial era]>",
+            "[-3 Faith] from every [Shrine] <starting from the [Industrial era]>",
             "[+4 Food] from every [Natural Wonder]",
             "[+3] Sight <for [Settler] units>",
             "[+3 Production, +3 Science, +3 Faith] from every [4] global followers [in foreign cities]",
