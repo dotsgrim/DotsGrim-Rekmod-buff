@@ -27,11 +27,11 @@
             "Comment [Unlocks [Mandir] [in cities following this religion]]",
             "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
             "Comment [Unlocks [Cathedral] [in cities following this religion]]",
-            "[Unlocks [Pagoda] [in non-foreign cities following this religion]]",
-            "[Unlocks [Mosque] [in non-foreign cities following this religion]]",
-            "[Unlocks [Mandir] [in non-foreign cities following this religion]]",
-            "[Unlocks [Gurdwara] [in non-foreign cities following this religion]]",
-            "[Unlocks [Cathedral] [in non-foreign cities following this religion]]",
+            "[Unlocks [Pagoda] [in cities following this religion]]",
+            "[Unlocks [Mosque] [in cities following this religion]]",
+            "[Unlocks [Mandir] [in cities following this religion]]",
+            "[Unlocks [Gurdwara] [in cities following this religion]]",
+            "[Unlocks [Cathedral] [in cities following this religion]]",
         ]        
   }
 ]
