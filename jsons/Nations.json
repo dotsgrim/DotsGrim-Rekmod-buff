@@ -20,6 +20,7 @@
             "Comment [Buildings unlocked by religious beliefs (except Houses of Worship) are built using [Production] instead (cost equal to 50% of the required [Faith])]",
             "Comment [These buildings provide [+2 Production]]",
             "[+1 Food] [in capital] <before the [Classical era]>",
+            "[+50]% Strength <for [Scout] units vs [Barbarian] units> <before the [Classical era]>",
             "[+150]% Strength <for [Scout] units> <starting from the [Medieval era]> <before the [Renaissance era]>",
             "[+200]% Strength <for [Scout] units> <starting from the [Renaissance era]> <before the [Industrial era]>",
             "[+500]% Strength <for [Scout] units> <starting from the [Industrial era]> <before the [Modern era]>",
