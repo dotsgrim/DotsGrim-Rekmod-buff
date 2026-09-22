@@ -4,8 +4,8 @@
         "type": "Pantheon",
         "uniques": [
             "[+3 Happiness] [in capital] <before the [Medieval era]>",
-            "[+9 Production, +7 Food, +3 Faith, +4 Gold] from every [Tsikhe]",
-            "[-8 Production, -7 Food, -3 Faith, -4 Gold] from every [Walls]",
+            "[+10 Production, +8 Food, +5 Faith, +4 Gold] from every [Tsikhe]",
+            "[-8 Production, -8 Food, -5 Faith, -4 Gold] from every [Walls]",
             "[+4 Food] from every [Natural Wonder]",
             "[+3] Sight <for [Settler] units>",
             "[+4 Production, +3 Science, +2 Faith] from every [4] global followers [in foreign cities]",
