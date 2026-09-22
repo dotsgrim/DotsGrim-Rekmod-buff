@@ -3,7 +3,8 @@
         "name": "Georgia Golden Age from Victories",
         "uniques": [
             "Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
-            "Earn [50]% of killed [Military] unit's [Strength] as [Happiness] <before the [Renaissance era]>"
+            "Earn [50]% of killed [Military] unit's [Strength] as [Happiness] <before the [Industrial era]>",
+            "[+5] XP gained from combat"
           
         ]
     }
