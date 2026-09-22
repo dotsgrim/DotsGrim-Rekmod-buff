@@ -4,6 +4,8 @@
         "type": "Pantheon",
         "uniques": [
             "[+3 Happiness] [in capital] <before the [Medieval era]>",
+            "[+3] Sight <for [Religious] units> <starting from the [Renaissance era]>",
+            "[+2] Movement <for [Religious] units> <starting from the [Renaissance era]>",
             "[+50 Faith] when a city adopts this religion for the first time <(modified by game speed)>",
             "[+11 Production, +8 Food, +5 Faith, +4 Gold] from every [Tsikhe]",
             "[-8 Production, -8 Food, -5 Faith, -4 Gold] from every [Walls]",
