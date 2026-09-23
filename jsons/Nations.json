@@ -17,6 +17,7 @@
         "innerColor": [254,254,51],
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
+            "Gain [75] [Gold] <upon discovering [Mountain] tiles>",
             "[+2 Food] [in capital] <before the [Classical era]>",
             "[+1 Faith] from every [Mountain] <before the [Classical era]>",
             "[+1] Movement <for [Military] units> <during a Golden Age>",
