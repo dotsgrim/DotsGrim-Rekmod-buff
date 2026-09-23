@@ -9,8 +9,8 @@
         "movement": 2,
         "uniques": [
           "[+5] XP gained if it kills a unit",
-          "Ignores terrain cost", 
-          "Invisible to non-adjacent enemy units",
+          "Ignores terrain cost",
+          "Invisible to non-adjacent enemy units <starting from the [Information era]>",
           "Can move after attacking",
           "Damage taken from interception reduced by [35]% <starting from the [Atomic era]>",
           "Never appears as a Barbarian unit",
