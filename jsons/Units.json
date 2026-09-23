@@ -3,7 +3,7 @@
     "name": "Assassin",
         "replaces": "Scout",
         "uniqueTo": "Georgia",
-        "unitType": "Military",
+        "unitType": "Scout",
         "movement": 2,
         "uniques": [
           "[+100]% to Flank Attack bonuses",
