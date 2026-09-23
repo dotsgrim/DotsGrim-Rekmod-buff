@@ -4,10 +4,12 @@
         "replaces": "Scout",
         "uniqueTo": "Georgia",
         "unitType": "Scout",
+        "strength": 5,
+        "cost": 25,
         "movement": 2,
         "uniques": [
           "[+100]% to Flank Attack bonuses",
-          "[+50]% Strength"
+          "[+50]% Strength",
           "Ignores terrain cost",
           "Before engaging in combat performs an extra ranged attack with [25]% of melee combat strength",
           "Invisible to non-adjacent enemy units",
