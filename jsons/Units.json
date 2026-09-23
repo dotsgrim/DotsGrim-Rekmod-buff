@@ -5,7 +5,7 @@
         "uniqueTo": "Georgia",
         "unitType": "Scout",
         "strength": 5,
-        "cost": 35,
+        "cost": 50,
         "movement": 2,
         "uniques": [
           "[+5] XP gained if it kills a unit",
@@ -15,6 +15,11 @@
           "Damage taken from interception reduced by [35]% <starting from the [Atomic era]>",
           "Never appears as a Barbarian unit",
           "Does not upgrade from ruins-like effects",
+          "Earn [25]% of killed [Military] unit's [Strength] as [Gold]",
+          "[+1] Sight <starting from [Classical era]>",
+          "[+1] Movement <starting from [Medieval era]>",
+          "[+1] Movement <starting from [Modern era]>",
+          "[+2] Movement <starting from [Atomic era]>",
           "[+100]% Strength <starting from the [Medieval era]> <before the [Renaissance era]>",
           "[+150]% Strength <starting from the [Renaissance era]> <before the [Industrial era]>",
           "[+300]% Strength <starting from the [Industrial era]> <before the [Modern era]>",
@@ -30,7 +35,14 @@
           "[+1900]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
           "[+2900]% to Flank Attack bonuses <starting from the [Industrial era]> <before the [Modern era]>",
           "[+3900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
-          "[+5900]% to Flank Attack bonuses <starting from the [Atomic era]>"
+          "[+5900]% to Flank Attack bonuses <starting from the [Atomic era]>",
+          "[-90]% Strength <when adjacent to a [Assassin] unit> <before the [Medieval era]>",
+          "[-120]% Strength <when adjacent to a [Assassin] unit> <starting from the [Medieval era]> <before the [Renaissance era]>",
+          "[-140]% Strength <when adjacent to a [Assassin] unit> <starting from the [Renaissance era]> <before the [Industrial era]>",
+          "[-300]% Strength <when adjacent to a [Assassin] unit> <starting from the [Industrial era]> <before the [Modern era]>",
+          "[-600]% Strength <when adjacent to a [Assassin] unit> <starting from the [Modern era]> <before the [Atomic era]>",
+          "[-800]% Strength <when adjacent to a [Assassin] unit> <starting from the [Atomic era]>",
+          
         ]
 
    }
