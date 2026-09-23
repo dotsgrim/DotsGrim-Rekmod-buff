@@ -6,8 +6,9 @@
         "unitType": "Scout",
         "strength": 5,
         "cost": 35,
-        "movement": 2,
+        "movement": 3,
         "uniques": [
+          "[+5] XP gained if it kills a unit",
           "Ignores terrain cost", 
           "Invisible to non-adjacent enemy units",
           "Can move after attacking",
