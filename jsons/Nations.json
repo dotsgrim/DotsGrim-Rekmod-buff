@@ -17,27 +17,14 @@
         "innerColor": [254,254,51],
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
-            "Comment [Buildings unlocked by religious beliefs (except Houses of Worship) are built using [Production] instead (cost equal to 50% of the required [Faith])]",
-            "Comment [These buildings provide [+2 Production]]",
             "[+2 Food] [in capital] <before the [Classical era]>",
-            "[+50]% Strength <for [Scout] units> <vs [Barbarian] units> <before the [Medieval era]>",
-            "[+200]% Strength <for [Scout] units> <starting from the [Medieval era]> <before the [Renaissance era]>",
-            "[+300]% Strength <for [Scout] units> <starting from the [Renaissance era]> <before the [Industrial era]>",
-            "[+600]% Strength <for [Scout] units> <starting from the [Industrial era]> <before the [Modern era]>",
-            "[+1200]% Strength <for [Scout] units> <starting from the [Modern era]> <before the [Atomic era]>",
-            "[+2300]% Strength <for [Scout] units> <starting from the [Atomic era]>",
             "[+1 Faith] from every [Mountain] <before the [Classical era]>",
-            "[+2 Faith, +2 Culture] from every [Mountain] <starting from the [Renaissance era]>",
             "[+1] Movement <for [Military] units> <during a Golden Age>",
             "[+20]% Strength <for [Military] units> <during a Golden Age>",
-            "[+1] Sight <for [Scout] units> <starting from the [Renaissance era]>",
-            "[+2] Movement <for [Scout] units> <starting from the [Renaissance era]>",
-            "[Scout] units gain the [Can Move After Attacking] promotion <starting from the [Renaissance era]>",
-            "[Scout] units gain the [Evasion] promotion <starting from the [Atomic era]>",
             "[+50]% Golden Age length <starting from the [Renaissance era]>"
         ],
         "cities": [
-            "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
+            "∆ City MAIN ∆","City Two •II•","City Three •III•","City Four •IV•","City Five •V•","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
             "Khashuri","Senak'i","Zestap'oni","Telavi","Ozurgeti","Marneuli","Kobuleti","Tqvarch'eli","Akhaltsikhe","Tsqaltubo",
             "Kaspi"
         ],
