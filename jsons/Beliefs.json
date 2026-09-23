@@ -4,13 +4,20 @@
         "type": "Pantheon",
         "uniques": [
             "Only available <if [Tsikhe] is constructed>",
-            "[+15 Production, +8 Food, +10 Faith] from every [Tsikhe]",
-            "[-10 Production, -8 Food, -10 Faith] from every [Walls]",
+            "[+15 Production, +8 Food, +8 Faith] from every [Tsikhe]",
+            "[-10 Production, -8 Food, -8 Faith] from every [Walls]",
             "[+1 Production, +1 Science, +1 Faith, +1 Culture] from every [2] global followers [in foreign cities]",
             "[+1 Happiness] from every [4] global followers [in foreign cities] <starting from the [Renaissance era]>",
+            "[+8 Faith] from every [10] global followers [in foreign cities] <starting from the [Modern era]>",
             "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
-            "Comment [Unlocks [Cathedral] [in cities following this religion]]",   
+            "Comment [Unlocks [Cathedral] [in cities following this religion]]", 
+            "[50]% of excess happiness converted to [Culture]",
+            "May buy [Great Engineer] units for [1000] [Faith] [in all cities]",
+            "May buy [Great Scientist] units for [1000] [Faith] [in all cities]",
+            "May buy [Great Artist] units for [1000] [Faith] [in all cities]",
+            "May buy [Great General] units for [1500] [Faith] [in all cities]",
+            "May buy [Great Admiral] units for [1500] [Faith] [in all cities]",
+            "May buy [Great Prophet] units for [1500] [Faith] [in all cities]",
         ]        
   }
 ]
-
