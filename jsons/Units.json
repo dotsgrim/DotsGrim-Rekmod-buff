@@ -8,10 +8,9 @@
         "cost": 25,
         "movement": 2,
         "uniques": [
-          "[+100]% to Flank Attack bonuses",
+          "[+200]% to Flank Attack bonuses",
           "[+50]% Strength",
-          "Ignores terrain cost",
-          "Before engaging in combat performs an extra ranged attack with [25]% of melee combat strength",
+          "Ignores terrain cost", 
           "Invisible to non-adjacent enemy units",
           "Can move after attacking",
           "Damage taken from interception reduced by [30]%",
