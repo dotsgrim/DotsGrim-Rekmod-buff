@@ -1,17 +1,30 @@
 [
   {
-    "name": "Scoutmaster",
+    "name": "Assassin",
         "replaces": "Scout",
         "uniqueTo": "Georgia",
         "unitType": "Military",
         "movement": 2,
         "uniques": [
+          "[+100]% to Flank Attack bonuses",
+          "[+50]% Strength"
           "Ignores terrain cost",
-          "[+15]% to Flank Attack bonuses",
-          "[+33]% Strength <during a Golden Age>",
           "Before engaging in combat performs an extra ranged attack with [25]% of melee combat strength",
           "Invisible to non-adjacent enemy units",
           "Can move after attacking",
           "Damage taken from interception reduced by [30]%",
           "Never appears as a Barbarian unit",
-          "Does not upgrade from ruins-like effects"
+          "Does not upgrade from ruins-like effects",
+          "[+100]% Strength <starting from the [Medieval era]> <before the [Renaissance era]>",
+          "[+200]% Strength <starting from the [Renaissance era]> <before the [Industrial era]>",
+          "[+400]% Strength <starting from the [Industrial era]> <before the [Modern era]>",
+          "[+700]% Strength <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+1000]% Strength <starting from the [Atomic era]>",
+          "[+300]% to Flank Attack bonuses <starting from the [Medieval era]> <before the [Renaissance era]>",
+          "[+600]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
+          "[+1000]% Strength <starting from the [Industrial era]> <before the [Modern era]>",
+          "[+1400]% Strength <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+1600]% Strength <starting from the [Atomic era]>",
+
+   }
+]
