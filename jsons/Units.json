@@ -6,7 +6,7 @@
         "unitType": "Scout",
         "strength": 5,
         "cost": 35,
-        "movement": 3,
+        "movement": 2,
         "uniques": [
           "[+5] XP gained if it kills a unit",
           "Ignores terrain cost", 
