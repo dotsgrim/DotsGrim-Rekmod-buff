@@ -17,12 +17,15 @@
         "innerColor": [254,254,51],
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
-            "Gain [75] [Gold] <upon discovering [Mountain] tiles>",
-            "[+2 Food] [in capital] <before the [Classical era]>",
+            "Gain [9] [Faith] <upon discovering [Mining] technology>",
             "[+1 Faith] from every [Mountain] <before the [Classical era]>",
             "[+1] Movement <for [Military] units> <during a Golden Age>",
-            "[+20]% Strength <for [Military] units> <during a Golden Age>",
-            "[+50]% Golden Age length <starting from the [Renaissance era]>"
+            "[+12]% Strength <for [Military] units> <during a Golden Age> <before the [Renaissance era]>",
+            "[+25]% Strength <for [Military] units> <during a Golden Age> <starting from the [Renaissance era]> <before the [Modern era]>",
+            "[+50]% Strength <for [Military] units> <during a Golden Age> <starting from the [Modern era]>",
+            "[+50]% Golden Age length <starting from the [Renaissance era]> <before the [Atomic era]>",
+            "[+75]% Golden Age length <starting from the [Atomic era]>"
+     
         ],
         "cities": [
             "∆ City MAIN ∆","City Two •II•","City Three •III•","City Four •IV•","City Five •V•","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
