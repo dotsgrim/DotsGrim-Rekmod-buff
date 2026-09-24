@@ -8,9 +8,6 @@
         "cost": 50,
         "movement": 2,
         "uniques": [
-          "[+100]% Strength",
-          "[+100]% Strength <when attacking>",
-          "[+900]% to Flank Attack bonuses",
           "[+5] XP gained if it kills a unit",
           "Ignores terrain cost",
           "Invisible to non-adjacent enemy units <starting from the [Information era]>",
