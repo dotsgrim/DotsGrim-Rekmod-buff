@@ -24,7 +24,9 @@
             "[+25]% Strength <for [Military] units> <during a Golden Age> <starting from the [Renaissance era]> <before the [Modern era]>",
             "[+50]% Strength <for [Military] units> <during a Golden Age> <starting from the [Modern era]>",
             "[+50]% Golden Age length <starting from the [Renaissance era]> <before the [Atomic era]>",
-            "[+75]% Golden Age length <starting from the [Atomic era]>"
+            "[+75]% Golden Age length <starting from the [Atomic era]>",
+            "[+3] Movement <for [Embarked] units> <starting from the [Medieval era]>",
+            "[+3] Sight <for [Embarked] units> <starting from the [Medieval era]>"
      
         ],
         "cities": [
