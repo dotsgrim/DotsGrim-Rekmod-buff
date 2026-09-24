@@ -8,6 +8,9 @@
         "cost": 50,
         "movement": 2,
         "uniques": [
+          "[+100]% Strength",
+          "[+100]% Strength <when attacking>",
+          "[+900]% to Flank Attack bonuses",
           "[+5] XP gained if it kills a unit",
           "Ignores terrain cost",
           "Invisible to non-adjacent enemy units <starting from the [Information era]>",
@@ -35,14 +38,7 @@
           "[+1900]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
           "[+2900]% to Flank Attack bonuses <starting from the [Industrial era]> <before the [Modern era]>",
           "[+3900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
-          "[+5900]% to Flank Attack bonuses <starting from the [Atomic era]>",
-          "[-90]% Strength <when adjacent to a [Assassin] unit> <before the [Medieval era]>",
-          "[-120]% Strength <when adjacent to a [Assassin] unit> <starting from the [Medieval era]> <before the [Renaissance era]>",
-          "[-140]% Strength <when adjacent to a [Assassin] unit> <starting from the [Renaissance era]> <before the [Industrial era]>",
-          "[-300]% Strength <when adjacent to a [Assassin] unit> <starting from the [Industrial era]> <before the [Modern era]>",
-          "[-600]% Strength <when adjacent to a [Assassin] unit> <starting from the [Modern era]> <before the [Atomic era]>",
-          "[-800]% Strength <when adjacent to a [Assassin] unit> <starting from the [Atomic era]>",
-          
+          "[+5900]% to Flank Attack bonuses <starting from the [Atomic era]>"
         ]
 
    }
