@@ -18,6 +18,7 @@
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
             "Gain [15] [Faith] <upon discovering [Mining] technology>",
+            "Gain [150] [Faith] <upon discovering [Masonry] technology>",
             "[+1 Faith] from every [Mountain] <before the [Classical era]>",
             "[+3 Faith, +3 Science] from every [Mountain] <starting from the [Industrial era]>",
             "[+1] Movement <for [Military] units> <during a Golden Age>",
