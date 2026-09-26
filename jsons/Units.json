@@ -4,11 +4,16 @@
         "replaces": "Scout",
         "uniqueTo": "Georgia",
         "unitType": "Scout",
+        "obsoleteTech": "Steel",
+        "upgradesTo": "Altar Assassin",
         "strength": 5,
         "cost": 50,
         "movement": 2,
         "uniques": [
-          "[+5] XP gained if it kills a unit",
+          "[+50]% Strength <vs [Ranger] units>",
+          "[-75]% Strength <when defending>",
+          "[+50]% Strength <when attacking in [Forest] tiles>",
+          "[+50]% Strength <when attacking in [Jungle] tiles>",
           "Ignores terrain cost",
           "Invisible to non-adjacent enemy units <starting from the [Information era]>",
           "Can move after attacking",
@@ -22,7 +27,7 @@
           "[+2] Movement <starting from [Atomic era]>",
           "[+100]% Strength <starting from the [Medieval era]> <before the [Renaissance era]>",
           "[+150]% Strength <starting from the [Renaissance era]> <before the [Industrial era]>",
-          "[+300]% Strength <starting from the [Industrial era]> <before the [Modern era]>",
+          "[+350]% Strength <starting from the [Industrial era]> <before the [Modern era]>",
           "[+600]% Strength <starting from the [Modern era]> <before the [Atomic era]>",
           "[+1000]% Strength <starting from the [Atomic era]>",
           "[+150]% Strength <when attacking> <starting from the [Medieval era]> <before the [Renaissance era]>",
@@ -37,6 +42,48 @@
           "[+3900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
           "[+5900]% to Flank Attack bonuses <starting from the [Atomic era]>"
         ]
-
-   }
+   },
+  {
+    "name": "Altar Assassin",
+        "uniqueTo": "Georgia",
+        "unitType": "Sword",
+        "movement": 3,
+        "strength": 25,
+        "cost": 500,
+        "requiredTech": "Steel",
+        "uniques": [
+          "[+50]% Strength <vs [Ranger] units>",
+          "[-50]% Strength <when defending>",
+          "[+25]% Strength <when attacking in [Forest] tiles>",
+          "[+25]% Strength <when attacking in [Jungle] tiles>",
+          "Cannot be hurried",
+          "Unbuildable",
+          "Ignores terrain cost",
+          "Invisible to non-adjacent enemy units <starting from the [Information era]>",
+          "Can pass through impassable tiles <starting from the [Atomic era]>",
+          "Can move after attacking",
+          "Damage taken from interception reduced by [35]% <starting from the [Atomic era]>",
+          "Never appears as a Barbarian unit",
+          "Does not upgrade from ruins-like effects",
+          "Earn [35]% of killed [Military] unit's [Strength] as [Gold]",
+          "[+1] Sight",
+          "[+1] Movement <starting from [Modern era]>",
+          "[+2] Movement <starting from [Atomic era]>",
+          "[-25]% Strength <before the [Renaissance era]",
+          "[+75]% Strength <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+100]% Strength <starting from the [Atomic era]> <before the [Information era]>",
+          "[+150]% Strength <starting from the [Information era]>",
+          "[+50]% Strength <when attacking> <starting from the [Medieval era]> <before the [Renaissance era]>",
+          "[+60]% Strength <when attacking> <starting from the [Renaissance era]> <before the [Industrial era]>",
+          "[+75]% Strength <when attacking> <starting from the [Industrial era]> <before the [Modern era]>",
+          "[+100]% Strength <when attacking> <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+200]% Strength <when attacking> <starting from the [Atomic era]>",
+          "[+250]% to Flank Attack bonuses <starting from the [Medieval era]> <before the [Renaissance era]>",
+          "[+400]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
+          "[+700]% to Flank Attack bonuses <starting from the [Industrial era]> <before the [Modern era]>",
+          "[+900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+1400]% to Flank Attack bonuses <starting from the [Atomic era]>"
+        ]
+        "attackSound": "metalhit"
+  }
 ]
