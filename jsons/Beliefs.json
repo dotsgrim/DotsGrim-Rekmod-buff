@@ -3,7 +3,7 @@
         "name": "Promised Neverland",
         "type": "Pantheon",
         "uniques": [
-            "[-8 Production, -8 Food, -8 Culture, -8 Faith, -8 Gold, -8 Science] from [City center] tiles [in this city] <in cities without a [Tsikhe]>",
+            "[-8 Production, -8 Food, -8 Culture, -8 Faith, -8 Gold, -8 Science] from every [Palace] <in cities without a [Tsikhe]> <starting from the [Medieval era]>",
             "[+15 Production, +7 Food] from every [Tsikhe]",
             "[-10 Production, -7 Food] from every [Walls]",
             "[+10 Production, +5 Culture, +5 Food, +5 Faith] from every [Tsikhe] <starting from the [Industrial era]>",
