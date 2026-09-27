@@ -30,8 +30,7 @@
             "[+75]% Golden Age length <starting from the [Atomic era]>",
             "[+2] Movement <for [Embarked] units> <starting from the [Medieval era]>",
             "[+2] Sight <for [Embarked] units> <starting from the [Medieval era]>",
-            "[+10] Sight <for [Settler] units>",
-            "[-10] Sight <for [Settler] units> <after discovering [Agriculture] technology>"
+            "[+5] Sight <for [Settler] units> <before discovering [Mining] technology>"
      
         ],
         "cities": [
