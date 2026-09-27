@@ -21,14 +21,15 @@
             "Gain [150] [Faith] <upon discovering [Masonry] technology>",
             "[+1 Faith] from every [Mountain] <before the [Classical era]>",
             "[+3 Faith, +3 Science] from every [Mountain] <starting from the [Industrial era]>",
+            "[+6 Happiness] from every [Natural Wonder]",
             "[+1] Movement <for [Military] units> <during a Golden Age>",
             "[+12]% Strength <for [Military] units> <during a Golden Age> <before the [Renaissance era]>",
             "[+25]% Strength <for [Military] units> <during a Golden Age> <starting from the [Renaissance era]> <before the [Modern era]>",
             "[+50]% Strength <for [Military] units> <during a Golden Age> <starting from the [Modern era]>",
             "[+50]% Golden Age length <starting from the [Renaissance era]> <before the [Atomic era]>",
             "[+75]% Golden Age length <starting from the [Atomic era]>",
-            "[+3] Movement <for [Embarked] units> <starting from the [Medieval era]>",
-            "[+3] Sight <for [Embarked] units> <starting from the [Medieval era]>"
+            "[+2] Movement <for [Embarked] units> <starting from the [Medieval era]>",
+            "[+2] Sight <for [Embarked] units> <starting from the [Medieval era]>"
      
         ],
         "cities": [
