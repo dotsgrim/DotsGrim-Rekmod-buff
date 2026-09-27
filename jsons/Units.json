@@ -98,7 +98,7 @@
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
-            "Can see over obstacles <during the [Agriculture] technology>"
+            "Can see over obstacles <before discovering [Pottery] technology>"
         ],
         "hurryCostModifier": 20
     }
