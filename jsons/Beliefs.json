@@ -3,7 +3,7 @@
         "name": "Promised Neverland",
         "type": "Pantheon",
         "uniques": [
-            "[-3 Production, -3 Food, -3 Culture, -3 Faith, -3 Gold, -3 Science] [in cities following this religion] <in cities without a [Tsikhe]>",
+            "[-3 Production, -3 Food, -3 Culture, -3 Faith, -3 Gold, -3 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Medieval era]>",
             "[-8 Production, -8 Food, -8 Culture, -8 Faith, -8 Gold, -8 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Renaissance era]>",
             "[-9 Production, -9 Food, -9 Culture, -9 Faith, -9 Gold, -9 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Atomic era]>",
             "[+15 Production, +7 Food] from every [Tsikhe]",
