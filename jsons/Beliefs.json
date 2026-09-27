@@ -27,10 +27,14 @@
     "name": "Promised Neverland II",
         "type": "Follower",
         "uniques": [
-            "[+1 Production, +1 Science, +1 Faith, +1 Culture, +1 Gold] from every [2] global followers [in foreign cities]",
-            "[+5 Science] from every [6] global followers [in foreign cities] <starting from the [Medieval era]>",
-            "[+7 Science, +2 Happiness] from every [4] global followers [in foreign cities] <starting from the [Industrial era]>",
-            "[+8 Faith] from every [10] global followers [in foreign cities] <starting from the [Modern era]>",
+            "[+1 Production] from every [2] global followers [in cities following this religion]",
+            "[+2 Science] from every [3] global followers [in cities following this religion]",
+            "[+2 Culture] from every [3] global followers [in cities following this religion]",
+            "[+3 Gold] from every [5] global followers [in cities following this religion]",
+            "[+1 Faith] from every [2] global followers [in cities following this religion]",
+            "[+3 Science] from every [6] global followers [in cities following this religion] <starting from the [Medieval era]>",
+            "[+7 Science, +2 Happiness] from every [9] global followers [in foreign cities] <starting from the [Modern era]>",
+            "[+8 Faith] from every [12] global followers [in cities following this religion] <starting from the [Modern era]>",
             "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
             "Comment [Unlocks [Cathedral] [in cities following this religion]]", 
             "[+2]% [Production] from every follower, up to [20]%"
