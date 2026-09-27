@@ -34,5 +34,6 @@
             "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
             "Comment [Unlocks [Cathedral] [in cities following this religion]]", 
             "[+2]% [Production] from every follower, up to [20]%"
-          }
+        ]
+    }
 ]
