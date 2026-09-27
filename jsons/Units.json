@@ -13,8 +13,8 @@
           "[+100]% Strength <when attacking> <vs [Ranged] units>",
           "[+550]% Strength <vs cities> <when defending>",
           "[-75]% Strength <when defending>",
-          "[+50]% Strength <when attacking in [Forest] tiles>",
-          "[+50]% Strength <when attacking in [Jungle] tiles>",
+          "[+50]% Strength <when fighting in [Forest] tiles>",
+          "[+50]% Strength <when fighting in [Jungle] tiles>",
           "Ignores terrain cost",
           "Invisible to non-adjacent enemy units <starting from the [Information era]>",
           "Can move after attacking",
@@ -57,8 +57,8 @@
           "[+75]% Strength <when attacking> <vs [Ranged] units>",
           "[+200]% Strength <vs cities> <when defending>",
           "[-50]% Strength <when defending>",
-          "[+25]% Strength <when attacking in [Forest] tiles>",
-          "[+25]% Strength <when attacking in [Jungle] tiles>",
+          "[+25]% Strength <when fighting in [Forest] tiles>",
+          "[+25]% Strength <when fighting in [Jungle] tiles>",
           "Cannot be hurried",
           "Unbuildable",
           "Ignores terrain cost",
@@ -88,18 +88,5 @@
           "[+1400]% to Flank Attack bonuses <starting from the [Atomic era]>"
         ]
         "attackSound": "metalhit"
-  },
-  {
-        "name": "Settler",
-        "unitType": "Civilian",
-        "movement": 2,
-        "cost": 106,
-        "uniques": [
-            "Founds a new city <by consuming this unit>",
-            "Excess Food converted to Production when under construction",
-            "Requires at least [2] population",
-            "Can see over obstacles <before discovering [Pottery] technology>"
-        ],
-        "hurryCostModifier": 20
-    }
+  }
 ]
