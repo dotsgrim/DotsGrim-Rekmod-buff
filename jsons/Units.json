@@ -54,7 +54,7 @@
         "cost": 275,
         "requiredTech": "Steel",
         "uniques": [
-          "[+75]% Strength <when attacking> <vs [Ranger] units>",
+          "[+75]% Strength <when attacking> <vs [Ranged] units>",
           "[+200]% Strength <vs cities> <when defending>",
           "[-50]% Strength <when defending>",
           "[+25]% Strength <when attacking in [Forest] tiles>",
