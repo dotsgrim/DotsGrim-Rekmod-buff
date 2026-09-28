@@ -36,7 +36,8 @@
             "Comment [Unlocks [Cathedral] [in cities following this religion]]", 
             "[+2]% [Science] from every follower, up to [20]% <in cities with a [Tsikhe]>",
             "[Faith] cost of purchasing [Missionary] units [-50]%",
-            "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion"
+            "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion",
+            "Provides [3] [Trade Route] <starting from the [Renaissance era]>"
         ]
     }
 ]
