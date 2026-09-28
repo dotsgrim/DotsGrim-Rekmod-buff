@@ -27,13 +27,16 @@
     "name": "Promised Neverland II",
         "type": "Founder",
         "uniques": [
-            "[+3 Science, +2 Faith, +5 Gold] from every [4] global followers [in foreign cities]",
-            "[+3 Science] from every [6] global followers [in cities following this religion] <starting from the [Medieval era]>",
-            "[+5 Science, +2 Happiness] from every [9] global followers [in cities following this religion] <starting from the [Modern era]>",
-            "[+8 Faith] from every [12] global followers [in cities following this religion] <starting from the [Modern era]>",
+            "[+5 Food, +3 Happiness] [in capital]",
+            "[+2 Science, +1 Faith, +1 Gold, +1 Culture] from every [4] global followers [in foreign cities]",
+            "[+3 Science] from every [6] global followers [in foreign cities] <starting from the [Medieval era]>",
+            "[+5 Science, +2 Happiness] from every [9] global followers [in foreign cities] <starting from the [Modern era]>",
+            "[+8 Faith] from every [12] global followers [in foreign cities] <starting from the [Modern era]>",
             "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
             "Comment [Unlocks [Cathedral] [in cities following this religion]]", 
-            "[+2]% [Production] from every follower, up to [20]%"
+            "[+2]% [Science] from every follower, up to [20]% <in cities with a [Tsikhe]>",
+            "[Faith] cost of purchasing [Missionary] units [-50]%",
+            "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion"
         ]
     }
 ]
