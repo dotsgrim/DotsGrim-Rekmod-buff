@@ -21,7 +21,10 @@
             "May buy [Great Scientist] units for [1000] [Faith] [in all cities]",
             "May buy [Great General] units for [1500] [Faith] [in all cities]",
             "May buy [Great Admiral] units for [1500] [Faith] [in all cities]",
-            "May buy [Great Prophet] units for [1500] [Faith] [in all cities]"
+            "May buy [Great Prophet] units for [1500] [Faith] [in all cities]",
+            "[-25]% Culture cost of natural border growth [in all cities] <in cities with a [Tsikhe]> <starting from the [Renaissance era]>",
+            "[-15]% Culture cost of natural border growth [in all cities] <in cities with a [Tsikhe]> <starting from the [Atomic era]>",
+              
         ]        
   },
   {
