@@ -33,7 +33,7 @@
             "[+3] Sight <for [Embarked] units> <starting from the [Medieval era]>",
             "[-30]% Culture cost of natural border growth <in cities with a [Palace]> <before the [Classical era]>",
             "[-85]% Culture cost of natural border growth <in cities without a [Palace]> <before the [Classical era]>",
-            "[+3 Production, +3 Food] <in cities without a [Palace]> <before the [Medieval era]>"
+            "[+5 Production, +3 Food] <in cities without a [Palace]> <in cities without a [Tsikhe]> <before the [Medieval era]>"
             
         
      
