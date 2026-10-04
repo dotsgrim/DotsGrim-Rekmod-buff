@@ -3,11 +3,10 @@
         "name": "Promised Neverland",
         "type": "Pantheon",
         "uniques": [
-            "[-10 Science, -8 Faith, -3 Food] from every [Palace] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
-            "[+8 Production, +4 Food] [in cities following this religion] <in cities without a [Tsikhe]> <before the [Classical era]>",
-            "[-3 Production, -3 Food, -1 Culture, -3 Faith, -3 Gold, -3 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
-            "[-5 Production, -4 Food, -2 Culture, -5 Faith, -5 Gold, -5 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Renaissance era]>",
-            "[-7 Production, -5 Food, -3 Culture, -7 Faith, -7 Gold, -7 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Information era]>",
+            "[-7 Production, -7 Science, -7 Faith, -4 Food] from every [Palace] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
+            "[-3 Production, -3 Food, -1 Culture, -3 Faith, -3 Gold, -3 Science, -2 Happiness] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
+            "[-7 Production, -4 Food, -2 Culture, -5 Faith, -5 Gold, -5 Science, -2 Happiness] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Renaissance era]>",
+            "[-9 Production, -5 Food, -3 Culture, -7 Faith, -7 Gold, -7 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Information era]>",
             "[+10 Production, +4 Food] from every [Tsikhe]",
             "[-5 Production, -4 Food] from every [Walls]",
             "[+17 Science, +7 Production, +3 Culture, +5 Food, +5 Faith] from every [Tsikhe] <starting from the [Atomic era]>",
@@ -24,7 +23,6 @@
             "May buy [Great Admiral] units for [1500] [Faith] [in all cities]",
             "May buy [Great Prophet] units for [1500] [Faith] [in all cities]",
             "[-35]% Culture cost of natural border growth [in all cities] <in cities with a [Tsikhe]> <starting from the [Renaissance era]>",
-            "[-90]% Culture cost of natural border growth [in all cities] <in cities with a [Tsikhe]> <before the [Classical era]>",
             "[-15]% Culture cost of natural border growth [in all cities] <in cities with a [Tsikhe]> <starting from the [Atomic era]>"
         ]        
   },
@@ -37,12 +35,12 @@
             "[+3 Science] from every [6] global followers [in foreign cities] <starting from the [Medieval era]>",
             "[+5 Science, +3 Happiness] from every [9] global followers [in foreign cities] <starting from the [Modern era]>",
             "[+8 Faith, +3 Gold] from every [12] global followers [in foreign cities] <starting from the [Atomic era]>",
-            "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
-            "Comment [Unlocks [Cathedral] [in cities following this religion]]", 
+            "Comment [Unlocks [Pagoda] [in cities following this religion] <in cities with a [Tsikhe]>]", 
             "[+2]% [Science] from every follower, up to [20]% <in cities with a [Tsikhe]>",
             "[Faith] cost of purchasing [Missionary] units [-50]%",
             "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion",
-            "Provides [3] [Trade Route] <starting from the [Modern era]>"
+            "Provides [1] [Trade Route] <starting from the [Renaissance era]>",
+            "Provides [2] [Trade Route] <starting from the [Modern era]>",
         ]
     }
 ]
