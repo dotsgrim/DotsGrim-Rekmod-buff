@@ -67,18 +67,20 @@
           "Invisible to non-adjacent enemy units <starting from the [Information era]>",
           "Can pass through impassable tiles <starting from the [Atomic era]>",
           "Can move after attacking",
+          "[+5] XP gained from combat",
           "Damage taken from interception reduced by [35]% <starting from the [Atomic era]>",
           "Never appears as a Barbarian unit",
           "Does not upgrade from ruins-like effects",
           "Earn [35]% of killed [Military] unit's [Strength] as [Gold]",
           "Can see over obstacles <starting from the [Information era]>",
+          "May enter foreign tiles without open borders <starting from the [Modern era]>",
           "[+1] Sight",
           "[+1] Movement <starting from [Modern era]>",
           "[+2] Movement <starting from [Atomic era]>",
           "[-40]% Strength <before the [Renaissance era]>",
-          "[+75]% Strength <starting from the [Modern era]> <before the [Atomic era]>",
-          "[+100]% Strength <starting from the [Atomic era]> <before the [Information era]>",
-          "[+175]% Strength <starting from the [Information era]>",
+          "[+50]% Strength <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+75]% Strength <starting from the [Atomic era]> <before the [Information era]>",
+          "[+150]% Strength <starting from the [Information era]>",
           "[+35]% Strength <when attacking> <starting from the [Medieval era]> <before the [Renaissance era]>",
           "[+50]% Strength <when attacking> <starting from the [Renaissance era]> <before the [Industrial era]>",
           "[+100]% Strength <when attacking> <starting from the [Industrial era]> <before the [Modern era]>",
@@ -91,5 +93,28 @@
           "[+900]% to Flank Attack bonuses <starting from the [Atomic era]>"
         ]
         "attackSound": "metalhit"
-  }
+  },
+  {
+        "name": "Conspiracy",
+        "replaces": "Missionary",
+        "uniqueTo": "Georgia",
+        "unitType": "Civilian",
+        "cost": 100,
+        "uniques": [
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there <before the [Information era]>",
+            "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there <starting from the [Information era]>",
+            "Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
+            "[-1] Sight <before the [Information era]>",
+            "Unbuildable",
+            "[+2] Movement <when adjacent to a [Melee] unit> <starting from the [Industrial era]>",
+            "[+5] Sight <when adjacent to a [Melee] unit> <starting from the [Industrial era]>",
+            "Invisible to non-adjacent enemy units <starting from the [Information era]>",
+            "Religious Unit",
+            "Only available <when religion is enabled>"
+            
+        ],
+        "movement": 4,
+        "religiousStrength": 1000
+    },
 ]
