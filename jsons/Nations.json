@@ -30,6 +30,7 @@
             "[+75]% Golden Age length <starting from the [Atomic era]>",
             "[+2] Movement <for [Embarked] units> <starting from the [Medieval era]>",
             "[+2] Sight <for [Embarked] units> <starting from the [Medieval era]>",
+            "Reveal up to [All] [All] within a [6] tile radius <for [Settler] units> <before the [Classical era]>",
      
         ],
         "cities": [
