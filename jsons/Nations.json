@@ -30,7 +30,11 @@
             "[+50]% Golden Age length <starting from the [Renaissance era]> <before the [Atomic era]>",
             "[+75]% Golden Age length <starting from the [Atomic era]>",
             "[+2] Movement <for [Embarked] units> <starting from the [Medieval era]>",
-            "[+3] Sight <for [Embarked] units> <starting from the [Medieval era]>"
+            "[+3] Sight <for [Embarked] units> <starting from the [Medieval era]>",
+            "[-90]% Culture cost of natural border growth [in all cities] <before the [Classical era]>",
+            "[+4 Production, +4 Food] <in cities without a [Palace]> <before the [Medieval era]>",
+            
+        
      
         ],
         "cities": [
