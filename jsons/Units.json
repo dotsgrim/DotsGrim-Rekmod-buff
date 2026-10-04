@@ -11,7 +11,7 @@
         "movement": 2,
         "uniques": [
           "[+100]% Strength <when attacking> <vs [Ranged] units>",
-          "[+550]% Strength <vs cities> <when defending>",
+          "[+400]% Strength <vs cities> <when defending>",
           "[-75]% Strength <when defending>",
           "[+50]% Strength <when fighting in [Forest] tiles>",
           "[+50]% Strength <when fighting in [Jungle] tiles>",
@@ -38,11 +38,11 @@
           "[+900]% Strength <when attacking> <starting from the [Modern era]> <before the [Atomic era]>",
           "[+1200]% Strength <when attacking> <starting from the [Atomic era]>",
           "[+400]% to Flank Attack bonuses <before the [Medieval era]>",
-          "[+900]% to Flank Attack bonuses <starting from the [Medieval era]> <before the [Renaissance era]>",
-          "[+1400]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
-          "[+2400]% to Flank Attack bonuses <starting from the [Industrial era]> <before the [Modern era]>",
-          "[+3900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
-          "[+5900]% to Flank Attack bonuses <starting from the [Atomic era]>"
+          "[+740]% to Flank Attack bonuses <starting from the [Medieval era]> <before the [Renaissance era]>",
+          "[+900]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
+          "[+1400]% to Flank Attack bonuses <starting from the [Industrial era]> <before the [Modern era]>",
+          "[+1900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+2900]% to Flank Attack bonuses <starting from the [Atomic era]>"
         ]
    },
   {
@@ -54,10 +54,10 @@
         "cost": 225,
         "requiredTech": "Steel",
         "uniques": [
-          "[+40]% Strength <when attacking> <vs [Ranged] units>",
-          "[+80]% Strength <when attacking> <vs [Ranged] units> <starting from the [Modern era]>",
-          "[+200]% Strength <vs cities> <when defending>",
-          "[+125]% Strength <vs cities> <when defending> <starting from the [Information era]>",
+          "[+30]% Strength <when attacking> <vs [Ranged] units>",
+          "[+30]% Strength <when attacking> <vs [Ranged] units> <starting from the [Modern era]>",
+          "[+125]% Strength <vs cities> <when defending>",
+          "[+200]% Strength <vs cities> <when defending> <starting from the [Information era]>",
           "[-50]% Strength <when defending>",
           "[+25]% Strength <when fighting in [Forest] tiles>",
           "[+25]% Strength <when fighting in [Jungle] tiles>",
@@ -87,8 +87,8 @@
           "[+190]% to Flank Attack bonuses <starting from the [Medieval era]> <before the [Renaissance era]>",
           "[+240]% to Flank Attack bonuses <starting from the [Renaissance era]> <before the [Industrial era]>",
           "[+490]% to Flank Attack bonuses <starting from the [Industrial era]> <before the [Modern era]>",
-          "[+900]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
-          "[+1400]% to Flank Attack bonuses <starting from the [Atomic era]>"
+          "[+740]% to Flank Attack bonuses <starting from the [Modern era]> <before the [Atomic era]>",
+          "[+900]% to Flank Attack bonuses <starting from the [Atomic era]>"
         ]
         "attackSound": "metalhit"
   }
