@@ -4,11 +4,11 @@
         "type": "Pantheon",
         "uniques": [
             "[-7 Production, -7 Science, -7 Faith, -4 Food] from every [Palace] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
-            "[-3 Production, -3 Food, -1 Culture, -3 Faith, -3 Gold, -3 Science, -2 Happiness] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
-            "[-7 Production, -4 Food, -2 Culture, -5 Faith, -5 Gold, -5 Science, -2 Happiness] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Renaissance era]>",
-            "[-9 Production, -5 Food, -3 Culture, -7 Faith, -7 Gold, -7 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Information era]>",
-            "[+10 Production, +4 Food] from every [Tsikhe]",
-            "[-5 Production, -4 Food] from every [Walls]",
+            "[-3 Production, -3 Food, -1 Culture, -4 Faith, -3 Gold, -3 Science, -2 Happiness] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Classical era]>",
+            "[-7 Production, -4 Food, -2 Culture, -6 Faith, -5 Gold, -5 Science, -2 Happiness] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Renaissance era]>",
+            "[-9 Production, -5 Food, -3 Culture, -8 Faith, -7 Gold, -7 Science] [in cities following this religion] <in cities without a [Tsikhe]> <starting from the [Information era]>",
+            "[+10 Production, +4 Food, +2 Faith] from every [Tsikhe]",
+            "[-5 Production, -4 Food, -2 Faith] from every [Walls]",
             "[+17 Science, +7 Production, +3 Culture, +5 Food, +5 Faith] from every [Tsikhe] <starting from the [Atomic era]>",
             "[-12 Science, -7 Production, -3 Culture, -5 Food, -5 Faith] from every [Walls] <starting from the [Atomic era]>",
             "[50]% of excess happiness converted to [Culture] <before the [Renaissance era]>",
@@ -30,7 +30,7 @@
     "name": "Promised Neverland II",
         "type": "Founder",
         "uniques": [
-            "[+5 Food, +3 Happiness, +3 Gold, +2 Science] [in capital]",
+            "[+5 Food, +5 Happiness, +3 Gold, +3 Science, +2 Production] [in capital]",
             "[+2 Science, +1 Faith, +1 Gold, +1 Culture] from every [4] global followers [in foreign cities]",
             "[+3 Science] from every [6] global followers [in foreign cities] <starting from the [Medieval era]>",
             "[+5 Science, +3 Happiness] from every [9] global followers [in foreign cities] <starting from the [Modern era]>",
@@ -38,6 +38,7 @@
             "Comment [Unlocks [Pagoda] [in cities following this religion] <in cities with a [Tsikhe]>]", 
             "[+2]% [Science] from every follower, up to [20]% <in cities with a [Tsikhe]>",
             "[Faith] cost of purchasing [Missionary] units [-50]%",
+            "[Faith] cost of purchasing [Missionary] units [-40]% <before the [Classical era]>",
             "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion",
             "Provides [1] [Trade Route] <starting from the [Renaissance era]>",
             "Provides [2] [Trade Route] <starting from the [Modern era]>"
