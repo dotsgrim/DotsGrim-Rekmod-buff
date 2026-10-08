@@ -18,7 +18,9 @@
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
             "[+1 Faith] [in capital]",
-            "[+8 Happiness] from every [Natural Wonder]",
+            "[+50]% Strength <vs [Barbarian] units> <before adopting [Honor]>",
+            "Earn [100]% of killed [Barbarian] unit's [Strength] as [Faith] <before the [Medieval era]>",
+            "[+10 Happiness] from every [Natural Wonder]",
             "[+1] Movement <for [Military] units> <during a Golden Age> <before the [Atomic era]>",
             "[+1] Movement <for [All] units> <during a Golden Age> <starting from the [Atomic era]",
             "[+12]% Strength <for [Military] units> <during a Golden Age> <before the [Renaissance era]>",
