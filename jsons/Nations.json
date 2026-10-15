@@ -24,14 +24,14 @@
             "[+1] Movement <for [Military] units> <during a Golden Age> <before the [Atomic era]>",
             "[+1] Movement <for [All] units> <during a Golden Age> <starting from the [Atomic era]",
             "[+12]% Strength <for [Military] units> <during a Golden Age> <before the [Renaissance era]>",
-            "[+25]% Strength <for [Military] units> <during a Golden Age> <starting from the [Renaissance era]> <before the [Modern era]>",
-            "[+50]% Strength <for [Military] units> <during a Golden Age> <starting from the [Modern era]>",
+            "[+20]% Strength <for [Military] units> <during a Golden Age> <starting from the [Renaissance era]> <before the [Modern era]>",
+            "[+30]% Strength <for [Military] units> <during a Golden Age> <starting from the [Modern era]>",
             "[+50]% Golden Age length <starting from the [Renaissance era]> <before the [Atomic era]>",
             "[+75]% Golden Age length <starting from the [Atomic era]>",
             "[+2] Movement <for [Embarked] units> <starting from the [Medieval era]>",
             "[+3] Sight <for [Embarked] units> <starting from the [Medieval era]>",
-            "[-30]% Culture cost of natural border growth <in cities with a [Palace]> <before the [Classical era]>",
-            "[-85]% Culture cost of natural border growth <in cities without a [Palace]> <before the [Atomic era]>",
+            "[-30]% Culture cost of natural border growth <in cities with a [Palace]> <before the [Renaissance era]>",
+            "[-85]% Culture cost of natural border growth <in cities without a [Palace]> <before the [Medieval era]>",
             "[+5 Production, +3 Food] <in cities without a [Palace]> <in cities without a [Tsikhe]> <before the [Modern era]>"
             
         
