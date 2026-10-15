@@ -3,12 +3,13 @@
         "name": "Tsikhe",
         "replaces": "Walls",
         "uniqueTo": "Georgia",
-        "cityStrength": 10,
-        "cityHealth": 100,
+        "cityStrength": 11,
+        "cityHealth": 150,
         "faith": 3,
         "hurryCostModifier": 25,
         "uniques": [
             "[+3 Production] from [Strategic resource] tiles [in this city]",
+            "[+3 Food] from [Luxury resource] tiles [in this city]",
             "All newly-trained [Military] units [in all cities] receive the [Georgia Golden Age from Victories] promotion",
             "Destroyed when the city is captured"
         ],
