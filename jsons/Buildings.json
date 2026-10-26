@@ -9,7 +9,9 @@
         "hurryCostModifier": 25,
         "uniques": [
             "[+3 Production] from [Strategic resource] tiles [in this city]",
-            "[+3 Food] from [Luxury resource] tiles [in this city]",
+            "[+1 Food] from [Luxury resource] tiles [in this city]",
+            "[+1 Food] from [Luxury resource] tiles [in this city] <starting from the [Classical era]>",
+            "[+2 Food] from [Luxury resource] tiles [in this city] <starting from the [Renaissance era]>",
             "All newly-trained [Military] units [in all cities] receive the [Georgia Golden Age from Victories] promotion",
             "Destroyed when the city is captured"
         ],
