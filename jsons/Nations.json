@@ -18,6 +18,7 @@
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
             "[+1 Faith] [in capital]",
+            "Instantly gain [75] [Faith] <upon constructing [Tsikhe] [in capital]>",
             "[+50]% Strength <vs [Barbarian] units> <before adopting [Honor]>",
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Faith] <before the [Medieval era]>",
             "[+10 Happiness] from every [Natural Wonder]",
