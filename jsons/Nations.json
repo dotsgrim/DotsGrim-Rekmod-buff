@@ -18,7 +18,7 @@
         "uniqueName": "Ecclesiastical Architecture",
         "uniques": [
             "[+1 Faith] [in capital]",
-            "Instantly gain [75] [Faith] <upon constructing [Tsikhe] [in capital]>",
+            "Instantly gain [50] [Faith] <upon constructing [Tsikhe] [in capital]>",
             "[+50]% Strength <vs [Barbarian] units> <before adopting [Honor]>",
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Faith] <before the [Medieval era]>",
             "[+10 Happiness] from every [Natural Wonder]",
@@ -34,10 +34,10 @@
             "[-30]% Culture cost of natural border growth <in cities with a [Palace]> <before the [Renaissance era]>",
             "[-85]% Culture cost of natural border growth <in cities without a [Palace]> <before the [Medieval era]>",
             "[+5 Production, +3 Food] <in cities without a [Palace]> <in cities without a [Tsikhe]> <before the [Modern era]>",
-            "Provides [5] [Coal] <starting from the [Modern era]>",
-            "Provides [5] [Aluminum] <starting from the [Atomic era]>",
-            "Provides [5] [Oil] <starting from the [Atomic era]>",
-            "Provides [5] [Uranium] <starting from the [Information era]>"
+            "Provides [5] [Coal] <upon entering the [Modern era]>",
+            "Provides [5] [Aluminum] <upon entering the [Atomic era]>",
+            "Provides [5] [Oil] <upon entering the [Atomic era]>",
+            "Provides [5] [Uranium] <upon entering the [Information era]>"
           
             
         
